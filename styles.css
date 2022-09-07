@@ -1,0 +1,56 @@
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: #EDEAD0;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+} 
+
+.fav{
+    margin: 10px;
+    height: auto;
+    width: 100px;
+    background-color: #FFCF56;
+    color: #3AB795;
+}
+
+.fav:hover{
+    color: white;
+    cursor: default;
+}
+
+.skill_table{
+    background-color: #FFCF56;
+}
+
+iframe{
+    width: 400px;
+    height: 300px; 
+    border: dotted black 5px;
+    border-radius: 10px;
+}
+
+input{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #3AB795;
+    font-weight: bold;
+}
+
+section{
+    background-color: pink;
+    width: 20%;
+    text-align: center;
+}
+
+
+
